@@ -1,0 +1,25 @@
+{
+  "name": "socket-io-peerconnection",
+  "version": "1.0.0",
+  "description": "A base version with no functionality.",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Commanchae/socket-io-peerconnection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Commanchae/socket-io-peerconnection/issues"
+  },
+  "homepage": "https://github.com/Commanchae/socket-io-peerconnection#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3"
+  }
+}
